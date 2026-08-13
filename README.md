@@ -34,10 +34,10 @@ Lecture, Discussion, Blended, Case Studies, Project and Research Works.
 
 > **Specific Objective:** Understand the fundamental concepts and the image processing pipeline used in computer vision systems.
 
-1.1. Overview of computer vision and its applications
-1.2. Image acquisition and preprocessing techniques
-1.3. Image augmentation and feature extraction
-1.4. Spatial filtering and edge detection methods
+- 1.1. Overview of computer vision and its applications
+- 1.2. Image acquisition and preprocessing techniques
+- 1.3. Image augmentation and feature extraction
+- 1.4. Spatial filtering and edge detection methods
 
 **Case Study:** Image acquisition, augmentation, normalization, and feature representation for human face recognition systems.
 
@@ -45,10 +45,10 @@ Lecture, Discussion, Blended, Case Studies, Project and Research Works.
 
 > **Specific Objective:** Understand and apply deep neural network architectures for visual recognition and analysis tasks.
 
-2.1. Convolutional Neural Networks (CNN)
-2.2. Deep neural network training and optimization
-2.3. Regularization techniques and hyperparameter tuning
-2.4. Domain adaptation and transfer learning
+- 2.1. Convolutional Neural Networks (CNN)
+- 2.2. Deep neural network training and optimization
+- 2.3. Regularization techniques and hyperparameter tuning
+- 2.4. Domain adaptation and transfer learning
 
 **Case Study:** Visual feature representation and automation systems for animal classification.
 
@@ -56,11 +56,11 @@ Lecture, Discussion, Blended, Case Studies, Project and Research Works.
 
 > **Specific Objective:** Learn advanced techniques for detecting and recognizing multiple objects in images.
 
-3.1. Concepts of object detection
-3.2. Classical object detection methods
-3.3. Two-stage detectors: R-CNN, Fast R-CNN, Faster R-CNN, RPN, Mask R-CNN
-3.4. One-stage detectors: YOLO family, SSD
-3.5. Evaluation metrics: Precision, Recall, Mean Average Precision (mAP), Intersection over Union (IoU)
+- 3.1. Concepts of object detection
+- 3.2. Classical object detection methods
+- 3.3. Two-stage detectors: R-CNN, Fast R-CNN, Faster R-CNN, RPN, Mask R-CNN
+- 3.4. One-stage detectors: YOLO family, SSD
+- 3.5. Evaluation metrics: Precision, Recall, Mean Average Precision (mAP), Intersection over Union (IoU)
 
 **Case Study:** Detecting objects in self-driving car systems.
 
@@ -68,11 +68,11 @@ Lecture, Discussion, Blended, Case Studies, Project and Research Works.
 
 > **Specific Objective:** Understand segmentation techniques for detailed image and scene understanding.
 
-4.1. Concept and importance of image segmentation
-4.2. Types of segmentation: Semantic, Instance, and Panoptic segmentation
-4.3. Classical segmentation methods: Thresholding, Region Growing, Watershed algorithm
-4.4. Evaluation metrics: IoU, Dice coefficient, Pixel accuracy
-4.5. Deep learning models: U-Net architecture and DeepLab networks
+- 4.1. Concept and importance of image segmentation
+- 4.2. Types of segmentation: Semantic, Instance, and Panoptic segmentation
+- 4.3. Classical segmentation methods: Thresholding, Region Growing, Watershed algorithm
+- 4.4. Evaluation metrics: IoU, Dice coefficient, Pixel accuracy
+- 4.5. Deep learning models: U-Net architecture and DeepLab networks
 
 **Case Study:** Medical image segmentation for detecting tumors or organs using deep neural networks.
 
@@ -80,11 +80,11 @@ Lecture, Discussion, Blended, Case Studies, Project and Research Works.
 
 > **Specific Objective:** Learn techniques for estimating motion and tracking objects across video sequences for dynamic scene analysis.
 
-5.1. Motion estimation and optical flow (Lucas-Kanade and Horn-Schunck methods)
-5.2. Background subtraction and foreground/moving object detection
-5.3. Classical tracking methods: Kalman Filter, Particle Filter, Mean-Shift/CAMShift
-5.4. Deep learning-based tracking: Siamese networks, correlation filters, SORT and DeepSORT
-5.5. Multi-object tracking and evaluation metrics (MOTA, MOTP, IDF1)
+- 5.1. Motion estimation and optical flow (Lucas-Kanade and Horn-Schunck methods)
+- 5.2. Background subtraction and foreground/moving object detection
+- 5.3. Classical tracking methods: Kalman Filter, Particle Filter, Mean-Shift/CAMShift
+- 5.4. Deep learning-based tracking: Siamese networks, correlation filters, SORT and DeepSORT
+- 5.5. Multi-object tracking and evaluation metrics (MOTA, MOTP, IDF1)
 
 **Case Study:** Real-time vehicle and pedestrian tracking for traffic monitoring and surveillance systems.
 
@@ -92,11 +92,11 @@ Lecture, Discussion, Blended, Case Studies, Project and Research Works.
 
 > **Specific Objective:** Explore real-world applications and emerging areas of computer vision technologies.
 
-6.1. Computer vision in public service delivery
-6.2. Intelligent transportation systems
-6.3. Medical image analysis
-6.4. Climate change monitoring and disaster management
-6.5. Applications in agriculture and tourism support systems
+- 6.1. Computer vision in public service delivery
+- 6.2. Intelligent transportation systems
+- 6.3. Medical image analysis
+- 6.4. Climate change monitoring and disaster management
+- 6.5. Applications in agriculture and tourism support systems
 
 **Case Study:** Precision agriculture using computer vision to monitor crop health and detect plant diseases.
 
